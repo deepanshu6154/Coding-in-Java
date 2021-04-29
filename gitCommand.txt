@@ -1,0 +1,13 @@
+1.  git install
+
+2.  git config --global user.name "deepanshu6154"
+
+3.  git config --global user.email "deepanshu.sharma.18400700@gmail.com"
+
+4.  git init
+
+5.  Create .gitignore file -> put some files that you dont want to upload
+
+6.  git remote add origin https://github.com/deepanshu6154/Coding-in-Java.git
+    git branch -M main
+    git push -u origin main
